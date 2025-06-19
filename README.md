@@ -4,4 +4,8 @@
 
 İstanbul Gelişim Üniversitesi (İGÜ) İstanbul Gelişim Meslek Yüksekokulu (MYO) "HouSec" takımının çalışmalarının tanıtım sayfasıdır.
 
+## Proje Takımı 
+
+- [**Furkan Yaşar**]      
+
 
