@@ -11,4 +11,6 @@
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye  
 
 ## Proje Danışmanı    
+- [**Ali Çetinkaya**](https://github.com/acetinkaya)     
+
 
