@@ -6,6 +6,6 @@
 
 ## Proje Takımı 
 
-- [**Furkan Yaşar**]
-  ORCID ID: 0009-0000-5907-2496
-  İstanbul Gelişim Üniversitesi, 
+- [**Furkan Yaşar**]    
+  ORCID ID: 0009-0000-5907-2496   
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim 
