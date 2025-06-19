@@ -1,2 +1,5 @@
 # HouSec
-Think Smart Live Smarter
+
+## 🚀 Think Smart Live Smarter 🚀 2025 🚀
+
+
