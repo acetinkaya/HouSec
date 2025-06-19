@@ -6,6 +6,6 @@
 
 ## Proje Takımı 
 
-- [**Furkan Yaşar**]      
-
+- [**Furkan Yaşar**]
+  ORCID ID:
 
